@@ -36,7 +36,7 @@ Employer-dependent information appears only in the “Current professional assig
 
 ## Public-source notes
 
-- [Current Top Flite profile](https://tfhomeloans.com/nsorin)
+- [The Task Force](https://www.tftaskforce.com/)
 - [LinkedIn profile](https://www.linkedin.com/in/nicholas-shumpis)
 - [U.S. Army Special Operations Command — 160th SOAR overview](https://www.army.mil/usasoc)
 - [Special Operators Transition Foundation](https://sotf.org/)
